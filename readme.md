@@ -71,7 +71,7 @@ fdf5ef42bea0b8792d6326e4a307c39c07ba94f216556cf7ac3993a6e424bb59  arm64_152.0.79
 |--------------|---------|------|---------|----------|
 | **x86** | `152.0.7974.0` | 402.12 MB | `b7697183923d3740...` | [Download](https://dl.google.com/release2/chrome/fconzcrmzjmdkbt6rjg2nbsyxu_152.0.7974.0/152.0.7974.0_chrome_installer_uncompressed.exe) |
 | **x64** | `152.0.7974.1` | 749.07 MB | `3e50267911d555fb...` | [Download](https://dl.google.com/release2/chrome/ejvrsjh5h45c75zappxb4bnb6q_152.0.7974.1/152.0.7974.1_chrome_installer_uncompressed.exe) |
-| **ARM64** | `152.0.7974.0` | 466.23 MB | `714deb3efe9eed1a...` | [Download](https://dl.google.com/release2/chrome/ad5fkzx7whsulohkxbntvwddoeza_152.0.7974.0/152.0.7974.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `152.0.7974.1` | 675.77 MB | `5eedd05d9b611788...` | [Download](https://dl.google.com/release2/chrome/adkcvu7leyqiuymfgwzckyjip2na_152.0.7974.1/152.0.7974.1_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
@@ -79,7 +79,7 @@ fdf5ef42bea0b8792d6326e4a307c39c07ba94f216556cf7ac3993a6e424bb59  arm64_152.0.79
 ```
 b7697183923d37404420bb83df4fb5953d7c8c33dc795a7a42c6a3584e7dec8c  x86_152.0.7974.0_chrome_installer_uncompressed.exe
 3e50267911d555fb3cee384815b3b0867060c38f478d54a61039019aac522d97  x64_152.0.7974.1_chrome_installer_uncompressed.exe
-714deb3efe9eed1a0d13ce60a43e6712c6df28ba83a412460893ed5f6ca4051e  arm64_152.0.7974.0_chrome_installer_uncompressed.exe
+5eedd05d9b61178841cfb66a2139d36b561c8ee9b209c63a189d5ae8c08f30b8  arm64_152.0.7974.1_chrome_installer_uncompressed.exe
 ```
 
 </details>
