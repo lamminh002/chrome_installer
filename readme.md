@@ -69,17 +69,17 @@ d0f2d343efd09b248ce97a1738168ed49b8a4e25465fd233323d48c6dd2cc82a  x86_156.0.8063
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `156.0.8066.0` | 424.01 MB | `4d8c908b60d3d31c...` | [Download](https://dl.google.com/release2/chrome/acprlqatakz56cymlrmzhl7cp5rq_156.0.8066.0/156.0.8066.0_chrome_installer_uncompressed.exe) |
-| **x64** | `156.0.8066.0` | 499.68 MB | `d69fff535057efa3...` | [Download](https://dl.google.com/release2/chrome/afpkv5zbu2p45yznw2tkwql7hm_156.0.8066.0/156.0.8066.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `156.0.8066.4` | 691.56 MB | `b947cd3dcd705563...` | [Download](https://dl.google.com/release2/chrome/eqbuxfokk4oaeeoslul263v3bu_156.0.8066.4/156.0.8066.4_chrome_installer_uncompressed.exe) |
+| **x86** | `156.0.8067.0` | 424.36 MB | `199fc09d0917f332...` | [Download](https://dl.google.com/release2/chrome/jk6dh5zopdk2mehinfht7ezxuq_156.0.8067.0/156.0.8067.0_chrome_installer_uncompressed.exe) |
+| **x64** | `156.0.8067.0` | 499.78 MB | `bde7515f6b9f77cd...` | [Download](https://dl.google.com/release2/chrome/acyxmeeenybzyya4bipwys3xbtha_156.0.8067.0/156.0.8067.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `156.0.8067.0` | 475.54 MB | `023a2712152a8560...` | [Download](https://dl.google.com/release2/chrome/adhqynmqyx77zfp6a32j2hrlejpa_156.0.8067.0/156.0.8067.0_chrome_installer_uncompressed.exe) |
 
 <details>
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-4d8c908b60d3d31c4671df356edd1f62cde1bd04f4af89e69062bd1ae9ad437d  x86_156.0.8066.0_chrome_installer_uncompressed.exe
-d69fff535057efa3e5c036da3035d48257909aa3f6fa1187fbdcb891185be895  x64_156.0.8066.0_chrome_installer_uncompressed.exe
-b947cd3dcd7055633eee33610a0255b49320c288e7f64d4ffafb37de92ca9310  arm64_156.0.8066.4_chrome_installer_uncompressed.exe
+199fc09d0917f33260cd3d20f0753ea971acb1302368fc9057833af123b0ad68  x86_156.0.8067.0_chrome_installer_uncompressed.exe
+bde7515f6b9f77cd4773d9d2f5aa5db3e246f35e937f3845a4aed8fa78cf9f2a  x64_156.0.8067.0_chrome_installer_uncompressed.exe
+023a2712152a8560142e4ec83fe113caffcda55c192bd379a79e7b183cd140e9  arm64_156.0.8067.0_chrome_installer_uncompressed.exe
 ```
 
 </details>
