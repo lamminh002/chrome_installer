@@ -69,7 +69,7 @@ d0f2d343efd09b248ce97a1738168ed49b8a4e25465fd233323d48c6dd2cc82a  x86_156.0.8063
 
 | Architecture | Version | Size | SHA-256 | Download |
 |--------------|---------|------|---------|----------|
-| **x86** | `156.0.8071.1` | 639.16 MB | `d2a50b090c0db195...` | [Download](https://dl.google.com/release2/chrome/acooloe2iiztmu5gixgbyfezt6vq_156.0.8071.1/156.0.8071.1_chrome_installer_uncompressed.exe) |
+| **x86** | `156.0.8072.0` | 425.19 MB | `b60c470ee6d81919...` | [Download](https://dl.google.com/release2/chrome/f2muyhi5bbqipm2xa2r5hiyawm_156.0.8072.0/156.0.8072.0_chrome_installer_uncompressed.exe) |
 | **x64** | `156.0.8072.0` | 497.2 MB | `1167c8b30443207c...` | [Download](https://dl.google.com/release2/chrome/acqh2zh7qzmn3kf27tivpygbot6a_156.0.8072.0/156.0.8072.0_chrome_installer_uncompressed.exe) |
 | **ARM64** | `156.0.8072.0` | 476.92 MB | `4766ee207a7a898a...` | [Download](https://dl.google.com/release2/chrome/ozqosne6l5ycviol7thqbzxo7e_156.0.8072.0/156.0.8072.0_chrome_installer_uncompressed.exe) |
 
@@ -77,7 +77,7 @@ d0f2d343efd09b248ce97a1738168ed49b8a4e25465fd233323d48c6dd2cc82a  x86_156.0.8063
 <summary>Full SHA-256 (sha256sum -c)</summary>
 
 ```
-d2a50b090c0db195a6e984194d77188918c2d0576f40e53334a896434c4d97a7  x86_156.0.8071.1_chrome_installer_uncompressed.exe
+b60c470ee6d819192957da8c56558733208f9a2055249d96b42c8528855e24fc  x86_156.0.8072.0_chrome_installer_uncompressed.exe
 1167c8b30443207cffb310466f4d23227faed3c92ca80d84141871a7b4567119  x64_156.0.8072.0_chrome_installer_uncompressed.exe
 4766ee207a7a898af105c8d4e561773818e4eee20cf9c80d0a438bf07c427c37  arm64_156.0.8072.0_chrome_installer_uncompressed.exe
 ```
