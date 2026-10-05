@@ -176,11 +176,8 @@ def save_md(results, file_path="readme.md"):
         }
 
     with open(file_path, "w", encoding="utf-8") as f:
-        f.write("# Google Chrome Offline Installers (extract with 7-Zip)\n")
-        f.write(
-            "Stable release archive: "
-            "https://github.com/Bush2021/chrome_installer/releases\n\n"
-        )
+        f.write("# Google Chrome Offline Installers \n")
+
 
         channel_order = ["stable", "beta", "dev", "canary"]
         channel_names = {
