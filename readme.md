@@ -1,5 +1,5 @@
 # Google Chrome Offline Installers (extract with 7-Zip)
-Stable release archive: https://github.com/Bush2021/chrome_installer/releases
+
 
 ## Contents
 
